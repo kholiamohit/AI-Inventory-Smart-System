@@ -2348,4 +2348,4 @@ elif page == "🔔 Alerts":
 
 elif page == "⚙️ Settings":
 
-    settings_page)
+    settings_page()
